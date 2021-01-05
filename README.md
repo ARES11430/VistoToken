@@ -1,1 +1,1 @@
-# Vito Token Dapp
+# Visto Token Dapp
